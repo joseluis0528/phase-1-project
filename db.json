@@ -1,0 +1,15 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "city": "Chicago",
+            "temperature": 90,
+            "highest": 96,
+            "lowest": 87,
+            "description": "Sunny",
+            "icon": "🌤",
+            "humidity": "20%",
+            "wind": "10 mph"
+        }
+    ]
+}
